@@ -19,6 +19,8 @@ A modern, responsive **Fitness Tracker** web app built with **React.js**, design
 
 > *Add screenshots or a short demo video here to show UI and functionality.*
 
+![Uploading image.png…]()
+
 ---
 
 ## 🛠️ Tech Stack
