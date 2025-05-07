@@ -30,21 +30,6 @@ A modern, responsive **Fitness Tracker** web app built with **React.js**, design
 
 ---
 
-## 📂 Project Structure (Example)
-/fitness-tracker/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ ├── App.js
-│ ├── index.js
-│ └── firebase.js (or auth.js)
-└── README.md
-
-
----
-
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
