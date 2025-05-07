@@ -31,4 +31,57 @@ A modern, responsive **Fitness Tracker** web app built with **React.js**, design
 ---
 
 ## 📂 Project Structure (Example)
+/fitness-tracker/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── services/
+│ ├── App.js
+│ ├── index.js
+│ └── firebase.js (or auth.js)
+└── README.md
+
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/fitness-tracker.git
+cd fitness-tracker
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Set up Firebase or Google OAuth credentials
+
+Create a project on Firebase (https://console.firebase.google.com/)
+
+Enable Google Sign-In under Authentication > Sign-in Method
+
+Replace the Firebase config in firebase.js with your own credentials.
+
+Run the app
+
+bash
+Copy
+Edit
+npm start
+App will run on http://localhost:3000
+
+📌 Future Enhancements
+🧠 AI-powered personalized routines
+
+🏆 Progress visualization with charts
+
+📈 Weekly fitness reports
+
+📅 Calendar integration for workout reminders
+
+
 
